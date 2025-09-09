@@ -3,7 +3,7 @@ Markdown notes for the currently ongoing online CS50 Fall 2025 course
 
 Some notes may contain references to older versions of CS50
 
-These notes are intended to be used with Obsidian, although any Markdown interpreter will be able to read them just find.
+These notes are intended to be used with Obsidian, although any Markdown interpreter should be able to read them just fine.
 
 # Course link
 
